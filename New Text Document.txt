@@ -1,0 +1,1 @@
+python train.py --epochs 10 --data training/trainer.data --cfg training/yolov3.cfg --batch 6 --accum 1

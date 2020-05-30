@@ -1,0 +1,7 @@
+classes=37
+train= training\Train_List.txt
+valid= training\Val_List.txt
+names= training\pet.names
+backup= backup/
+eval=coco
+
